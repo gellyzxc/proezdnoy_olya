@@ -14,7 +14,7 @@ window.onload = function() {
 
     h31.textContent = number;
     h2.textContent = busnumber.toUpperCase() + "159";
-    h3.textContent = count * 33;
+    h3.textContent = count * 35;
     h4.textContent = count;
 }
 
